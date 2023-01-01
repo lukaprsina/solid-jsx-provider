@@ -15,7 +15,7 @@ const MDX: Component = () => {
       "<Test>H1 Text</Test>",
       {
         outputFormat: 'function-body',
-        jsxImportSource: 'solid-js',
+        jsxImportSource: 'solid-jsx',
         // providerImportSource: 'solid-jsx',
         // development: true,
         // format: 'mdx',
